@@ -1,6 +1,8 @@
 # Memory game, introducing react
 
-oc app to intrduce reactjs
+first introduction to reactjs
+
+(chai-enzyme wasn't ready for react 17 , abortion of the testing part)
 
 ## Getting Started with Create React App
 
