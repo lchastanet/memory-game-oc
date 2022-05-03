@@ -1,3 +1,1 @@
-# Memory game, introducing react
-
-first introduction to reactjs
+# Memory game, react
